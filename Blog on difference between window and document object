@@ -1,0 +1,6 @@
+WINDOW OBJECT:
+The window object represents a window/tab containing a DOM document .The window object represents an open window in a browser.
+The browser creates one window object for the HTML document, and one additional window object for each frame
+DOCUMENT OBJECT:
+document object is property of window object that points to the DOM document loaded in that window.The document object represent a web page that is loaded in the browser. 
+By accessing the document object, we can access the element in the HTML page. With the help of document objects, we can add dynamic content to our web page.
